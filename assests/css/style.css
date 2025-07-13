@@ -1,0 +1,99 @@
+.height{
+    height: 200px !important;
+    border-radius: 10px !important;
+}
+body{
+    background-color: rgb(236, 236, 236) ;
+}
+h1{
+    margin-bottom: 50px !important;
+}
+.margintop{
+    margin-top: 30px !important;
+}
+.button{
+    border-radius: 30px !important;
+    background-color: rgb(77, 75, 75) !important;
+    color: white !important;
+} 
+
+.active{
+    border: 3px solid white !important;
+}
+.btn-danger{
+    border-radius: 30px !important; 
+}
+.brd{
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px, rgba(10, 37, 64, 0.35) 0px -2px 6px 0px inset;
+}
+.bg{
+
+    background-image: url('../img/background3.webp') !important;
+    background-repeat: no-repeat;
+   min-height: 100vh !important;
+  
+    background-size: cover;
+    
+}
+.back-filter{
+    margin-top: 10% !important;
+    backdrop-filter: blur(3px) !important;
+    /* color: white !important; */
+} 
+td > img{
+    transition:  transform 2s;
+}
+td > img:hover{
+    transform: scale(2);
+}
+.note{
+    font-size: 0.8em;
+}.height{
+    height: 200px !important;
+    border-radius: 10px !important;
+}
+body{
+    background-color: rgb(236, 236, 236) ;
+}
+h1{
+    margin-bottom: 50px !important;
+}
+.margintop{
+    margin-top: 30px !important;
+}
+.button{
+    border-radius: 30px !important;
+    background-color: rgb(77, 75, 75) !important;
+    color: white !important;
+} 
+
+.active{
+    border: 3px solid white !important;
+}
+.btn-danger{
+    border-radius: 30px !important; 
+}
+.brd{
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px, rgba(10, 37, 64, 0.35) 0px -2px 6px 0px inset;
+}
+.bg{
+
+    background-image: url('../img/background3.webp') !important;
+    background-repeat: no-repeat;
+   min-height: 100vh !important;
+  
+    background-size: cover;
+    
+}
+.back-filter{
+    margin-top: 10% !important;
+    backdrop-filter: blur(3px) !important;
+    /* color: white !important; */
+} 
+td > img{
+    transition:  transform 2s;
+}
+
+.note{
+    font-size: 0.8em;
+}
